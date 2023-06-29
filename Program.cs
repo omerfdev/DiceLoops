@@ -9,7 +9,7 @@ while (alwaysRun)
     i++;
     while (xface == 6 && yface == 6 && alwaysRun==true)
     {
-        Console.WriteLine(i);
+        Console.WriteLine("6-6 Attemps :"+i);
         alwaysRun = false;
 
     }
