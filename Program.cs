@@ -1,6 +1,7 @@
 ﻿int i = 0;
 bool alwaysRun=true;
 
+#region 6 - 6 rolls on the dice method.
 while (alwaysRun)
 {
     Random rnd = new Random();
@@ -16,3 +17,4 @@ while (alwaysRun)
 
 }
 Console.ReadLine();
+#endregion
