@@ -1,4 +1,5 @@
-﻿int i = 0;
+//This program calculates how many tries it takes to get a 6 on both sides of the dice rolled.
+int i = 0;
 bool alwaysRun=true;
 
 #region 6 - 6 rolls on the dice method.
