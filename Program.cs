@@ -1,4 +1,4 @@
-//This program calculates how many tries it takes to get a 6 on both sides of the dice rolled.
+
 int i = 0;
 bool alwaysRun=true;
 
