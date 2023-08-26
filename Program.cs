@@ -1,4 +1,6 @@
-﻿int i = 0;
+//DiceLoops
+
+int i = 0;
 bool alwaysRun=true;
 
 #region 6 - 6 rolls on the dice method.
