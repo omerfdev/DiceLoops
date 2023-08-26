@@ -1,4 +1,3 @@
-//DiceLoops
 
 int i = 0;
 bool alwaysRun=true;
